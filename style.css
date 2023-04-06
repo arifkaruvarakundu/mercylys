@@ -1,0 +1,140 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    background: white;
+    color: #662d91;
+}
+#row1 .logo{
+   margin-bottom: -120px;
+   height: 140px;
+   max-height: 140px;
+   width: auto;
+}
+.header{
+    background: #662d91!important;
+}
+#row1{
+    padding: auto;
+    background: #ffcc32!important;
+}
+.navbar{
+    background-color: #ffcc32!important;
+}
+.collapse ul li a{
+    font-family: 'Quicksand', sans-serif;
+    color: #662d91;
+    font-size: 1.10rem;
+    font-weight: 550;
+}
+#row2{
+    margin-top: 500px;
+}
+#row2 h6{
+    font-family: 'Quicksand', sans-serif;
+    color: #662d91;
+    font-size: 2.2rem;
+    font-weight: 510;
+}
+#para p{
+    
+    font-family: 'Quicksand', sans-serif;
+    color: #662d91;
+    font-size: 1rem;
+    font-weight: 480;
+    padding: 0px 1.8rem;
+}
+#Our-journey{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #ffcc32;
+    padding: 1rem 12%;
+    color: #662d91;
+    padding-bottom: 5rem;
+}
+#Product{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #fff;
+    padding: 1rem 12%;
+    color: #662d91;
+    padding-bottom: 5rem;
+}
+#Our-facility{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #ffcc32;
+    padding: 1rem 12%;
+    color: #662d91;
+    padding-bottom: 5rem;
+}
+#carousel-main{
+    background-color: #662d91;
+}
+.card h5{
+    font-family: 'Quicksand', sans-serif;
+    color: #662d91;
+    font-weight: 600;
+    font-size: 1.5rem;
+   
+}
+.card img{
+    max-width: 20rem;
+}
+#Contact-us{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #fff;
+    padding: 1rem 12%;
+    color: #662d91;
+    padding-bottom: 5rem;
+}
+#formGroupInput3{
+    line-height: 6;
+}
+#footer{
+    
+    background-color: #662d91;
+    padding: 1rem 12%;
+    color: #fff;
+    padding-bottom: 6rem;
+}
+#footer p{
+    font-size: 14px;
+}
+#footer p a{
+    font-size: 13.5px;
+    text-decoration: none;
+}
+#car-img{
+    max-width: 500px;
+}
+.img-cont{
+   
+}
+#h5{
+    color: #662d91;
+}
+#car-p{
+    color: #662d91;
+}
+.carousel-control-prev-icon{
+    background-color: #3e0669;
+}
+.carousel-control-next-icon{
+    background-color: #3e0669;
+}
+.product-border{
+    border-color: #662d91;
+    --bs-border-color: #662d91;
+    border-width: 10px
+}
+.border-5 {
+    border-width: 32px !important;
+  }
+p{
+    font-weight: 500;
+}
+
